@@ -51,4 +51,5 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
     8. Imported the aggregated data into Excel for further Analysis.
     
    
+ <p align="center"><img src="https://github.com/SnigdhaVrma/COVID19-INDIA-DataAnalysis/assets/133538251/e38bf3f0-23e5-4702-ac58-00e806c4fba3" width="1000" ></p>
 
